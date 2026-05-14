@@ -26,7 +26,7 @@ A premium, high-end futuristic calculator web application built with a "Smart Gl
 
 ## 🚀 Live Repository
 
-You can find the source code and track updates here: [GitHub Repository](https://github.com/BallariVinuthna/Alfido_Tech_Calculator)
+You can find the source code and track updates here: [GitHub Repository](https://github.com/BallariVinuthna/Alfido_calculator)
 
 ## 🚀 Getting Started
 
