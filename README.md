@@ -43,4 +43,4 @@ Simply open `index.html` in any modern web browser to experience the Smart Glass
 - `%`: Percentage
 
 ---
-Developed with ❤️ by Antigravity
+
