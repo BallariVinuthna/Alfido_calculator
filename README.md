@@ -24,6 +24,10 @@ A premium, high-end futuristic calculator web application built with a "Smart Gl
 - **Google Fonts**: Inter & Poppins.
 - **Font Awesome**: Premium vector icons.
 
+## 🚀 Live Repository
+
+You can find the source code and track updates here: [GitHub Repository](https://github.com/BallariVinuthna/Alfido_Tech_Calculator)
+
 ## 🚀 Getting Started
 
 Simply open `index.html` in any modern web browser to experience the Smart Glass Calculator.
